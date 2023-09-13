@@ -1,0 +1,51 @@
+https://stellarium-web.org/
+https://gofile.io/d/qthe0O
+https://mikkamikka.com/tmp/blockspace-reactapp/
+
+https://etherscan.io/address/0x7C75B9694636E56798Ad39dE6e5Bad5a2A429350#readContract
+
+https://github.com/olliecoleshill/SpaceSolidity
+
+This job is for a one off project, although I hope that if work is done to a high standard we will be able to collaborate in future too.
+
+I have a Python library that uses various mathematical functions to generate a set of coordinates given a single input. The Python dependencies are not ridiculously advanced libraries, so they should be possible to reproduce. We also don't need to reproduce every single part of the library.
+
+If you have a mathematical or astronomical background, that would be a significant help.
+
+Deliverables:
+1. Well documented code
+2. Demonstration that the Solidity code output is identical to the output of the Python library
+3. Support, if required, putting the code live on the blockchain
+
+The Python library is under 500 lines long and is readable. I can ask the developer of the Python library any questions necessary. You are welcome to put a placeholder bid prior to seeing the code, then updating your quote after I send you the code to review.
+
+I look forward to working with you.
+
+https://rinkeby.etherscan.io/address/0x9F9e83D5785053e5f85AaE897E54bEba04F6b60b#readContract
+0x159F25f8cb7f72f5F1d1b0C0f43213ff39Ff8228
+
+0xA61459F6a18a639517038Ad417BDdFC103123A84
+0xeF572Ba184A5d8F92617f2ab5Fb9beaDADd0a0dA
+
+cordic-3 : 0x95FeeD72b48DFAFF737A0F9817740c4eE1E0C04F
+	0x2Ad510e9F74786020b3FC373201e9c9EC3CD8BA6
+
+result : 0xe1f42077F29E92c0c7fC2F609e1bc073Ec428319
+
+version-2 (sky pos)
+https://rinkeby.etherscan.io/address/0xbe8a374ce69751DC886838dA439A8F7282841EBA#readContract
+
+
+That's great smile 
+
+We should have 2 methods at first:
+
+Both accept a timestamp and observation point (planet)
+
+One should return a list of 2D coordinates for the other planets, including their names
+
+The other should return a list of 3D coordinates for the other planets
+
+Later, we might want to add a start and end timestamp and - but that can be a future version.
+
+I also have an improved version that can also plot 'Moons' positions, but we can add that later smile
